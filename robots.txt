@@ -1,1 +1,4 @@
-404: Not Found
+User-agent: *
+Allow: /
+
+Sitemap: https://gatotkaca123vip.github.io/news/sitemap.xml
